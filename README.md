@@ -1,4 +1,4 @@
-```markdown
+
 # 📊 Inventario de Productos
 
 Este proyecto es una aplicación web desarrollada en **React.js** que permite gestionar un inventario de productos. Los usuarios pueden realizar acciones como:
@@ -151,6 +151,6 @@ export const axiosInstance = axios.create({
 ## 🙌 Autor
 
 Desarrollado por **Gil Matias Nahuel**. Si tienes dudas o sugerencias, no dudes en contactarme.
-```
+
 
 
