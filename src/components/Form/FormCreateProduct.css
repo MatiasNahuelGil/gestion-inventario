@@ -1,0 +1,23 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+    background-color: rgb(47, 83, 71);
+    padding: 2em;
+    justify-content: space-evenly;
+    border-radius: 10px;
+    color: var(--secondary-color);
+    align-items: center;
+}
+
+label{
+    width: 100%;
+}
+
+input{
+    width: 100%;
+    padding: 1em;
+    border-radius: 10px; 
+    border: none;
+}

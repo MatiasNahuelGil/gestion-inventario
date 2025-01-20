@@ -1,0 +1,13 @@
+:root{
+    --primary-color : #292727;
+    --secondary-color : #fff;
+    --terciary-color  :  rgb(47, 83, 71);
+    --font-poppy : "Poppins"
+}
+
+
+body{
+    font-family: var(--font-poppy)
+}
+
+

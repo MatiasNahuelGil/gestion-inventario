@@ -1,0 +1,20 @@
+.navbar {
+  display: flex;
+  justify-content: end;
+  width: 100%;
+}
+
+.navbar__list {
+  display: flex;
+  gap: 2em;
+}
+
+.navbar__list a {
+  border: 1px solid white;
+  padding: 0.5em;
+  transition: all 0.5s ease;
+}
+
+.navbar__list a:hover {
+  background-color: var(--terciary-color);
+}
